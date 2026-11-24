@@ -1,0 +1,29 @@
+# Build and test output
+[Bb]in/
+[Oo]bj/
+[Aa]rtifacts/
+[Tt]est[Rr]esults/
+
+# Local IDE and agent state
+.idea/
+.vs/
+.vscode/
+.agents/
+.codex/
+.superpowers/
+
+# Graphify output
+graphify-out/
+**/graphify-out/
+
+# Local crash, log, and temporary files
+*.log
+*.tmp
+*.user
+*.userprefs
+*.suo
+*.pidb
+*.pdb
+*.cache
+~$*
+*~

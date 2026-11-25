@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuredNarrative", "StructuredNarrative.csproj", "{9D6E843D-CA55-4E89-A7FA-A02AF0EE889D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseClasses", "..\..\external\BaseClasses\src\base\BaseClasses\BaseClasses.csproj", "{26386CC6-E243-4440-9BE8-8E7A99805D42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseClasses", "..\..\external\BaseClasses\src\BaseClasses\BaseClasses.csproj", "{26386CC6-E243-4440-9BE8-8E7A99805D42}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructuredNarrative.Tests", "StructuredNarrative.Tests\StructuredNarrative.Tests.csproj", "{6F9957CB-9991-4692-995E-91DD4BAA5344}"
 EndProject

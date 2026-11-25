@@ -28,8 +28,8 @@
     </ItemGroup>
 
     <ItemGroup>
-      <!--<ProjectReference Include="../../../external/AIGenerator/src/AI/AIGenerator/AIGenerator.csproj" />-->
-      <ProjectReference Include="../../../external/BaseClasses/src/base/BaseClasses/BaseClasses.csproj" />
+      <!--<ProjectReference Include="../../../external/AIGenerator/src/AIGenerator/AIGenerator.csproj" />-->
+      <ProjectReference Include="../../../external/BaseClasses/src/BaseClasses/BaseClasses.csproj" />
       <ProjectReference Include="..\StructuredNarrative.csproj" />
     </ItemGroup>
 

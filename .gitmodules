@@ -1,0 +1,3 @@
+[submodule "external/BaseClasses"]
+	path = external/BaseClasses
+	url = ../BaseClasses
